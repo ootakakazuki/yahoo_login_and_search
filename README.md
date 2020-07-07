@@ -1,0 +1,2 @@
+# yahoo_login_and_search
+# yahooにログインして標準入力から受け取った文字を検索する半自動スクリプト
